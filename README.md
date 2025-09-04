@@ -10,7 +10,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/em07_adoz" target="_blank" rel="noopener noreferrer">
-    <img width="36" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X (Twitter)" title="X (Twitter)" />
+    <img width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023.svg/32px-X_logo_2023.svg.png" alt="X (Twitter)" title="X (Twitter)" />
   </a>
 </p>
 
