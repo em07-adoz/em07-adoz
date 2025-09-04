@@ -8,10 +8,6 @@
   <a href="https://www.linkedin.com/in/olamide--lawal/" target="_blank" rel="noopener noreferrer">
     <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/em07_adoz" target="_blank" rel="noopener noreferrer">
-    <img width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023.svg/32px-X_logo_2023.svg.png" alt="X (Twitter)" title="X (Twitter)" />
-  </a>
 </p>
 
 ---
