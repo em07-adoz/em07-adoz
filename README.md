@@ -5,12 +5,13 @@
 <h3 align="center">Data Scientist • Tech Writer • Innovator</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/olamidelawal6762007/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/olamide--lawal/" target="_blank" rel="noopener noreferrer">
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" alt="Markdown" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <a href="https://x.com/em07_adoz" target="_blank" rel="noopener noreferrer">
+    <img width="36" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X (Twitter)" title="X (Twitter)" />
+  </a>
 </p>
 
 ---
@@ -33,4 +34,7 @@
 ## 🌟 Featured Project
 
 <p align="center">
-  <a href="https://github.com/em07-adoz/writete
+  <a href="https://github.com/em07-adoz/writetech-accelerator-portfolio-olamide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=em07-adoz&repo=writetech-accelerator-portfolio-olamide&theme=default" alt="Featured Project" />
+  </a>
+</p>
